@@ -1,0 +1,32 @@
+[
+{
+  "directory": "D:/code/makefile/build",
+  "command": "\"C:/Program Files/mingw64/bin/c++.exe\"  @CMakeFiles/makefile.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles/makefile.dir/src/add.cpp.obj -c D:/code/makefile/src/add.cpp",
+  "file": "D:/code/makefile/src/add.cpp",
+  "output": "CMakeFiles/makefile.dir/src/add.cpp.obj"
+},
+{
+  "directory": "D:/code/makefile/build",
+  "command": "\"C:/Program Files/mingw64/bin/c++.exe\"  @CMakeFiles/makefile.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles/makefile.dir/src/div.cpp.obj -c D:/code/makefile/src/div.cpp",
+  "file": "D:/code/makefile/src/div.cpp",
+  "output": "CMakeFiles/makefile.dir/src/div.cpp.obj"
+},
+{
+  "directory": "D:/code/makefile/build",
+  "command": "\"C:/Program Files/mingw64/bin/c++.exe\"  @CMakeFiles/makefile.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles/makefile.dir/src/main.cpp.obj -c D:/code/makefile/src/main.cpp",
+  "file": "D:/code/makefile/src/main.cpp",
+  "output": "CMakeFiles/makefile.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/code/makefile/build",
+  "command": "\"C:/Program Files/mingw64/bin/c++.exe\"  @CMakeFiles/makefile.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles/makefile.dir/src/mult.cpp.obj -c D:/code/makefile/src/mult.cpp",
+  "file": "D:/code/makefile/src/mult.cpp",
+  "output": "CMakeFiles/makefile.dir/src/mult.cpp.obj"
+},
+{
+  "directory": "D:/code/makefile/build",
+  "command": "\"C:/Program Files/mingw64/bin/c++.exe\"  @CMakeFiles/makefile.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles/makefile.dir/src/sub.cpp.obj -c D:/code/makefile/src/sub.cpp",
+  "file": "D:/code/makefile/src/sub.cpp",
+  "output": "CMakeFiles/makefile.dir/src/sub.cpp.obj"
+}
+]
